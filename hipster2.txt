@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x@ 13 amatsaylo  281749269   442B Mar 10 22:32 ../
+drwxr-xr-x   3 amatsaylo  281749269   102B Mar 10 23:39 ./
+drwxr-xr-x  17 amatsaylo  281749269   578B Mar 11 00:04 starter-web/
